@@ -94,6 +94,15 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 **Global Healthcare** (2021–2023)
 
 ---
+## 📚 Education
+
+### 🎓 Image Creative Education
+**Game Art & Design**  
+2024 – 2026
+
+### 🎓 Anna University(Sri Muthukumaran Institute of Technology Chikkarayapuram)
+**B.E (Engineering)** 
+2019 Completed
 
 ## 📫 Connect With Me
 
