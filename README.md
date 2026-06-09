@@ -1,117 +1,106 @@
-Hi there, I'm V. Rajkumar 👋
-<p align="left"> Passionate Game Designer and Unity Developer with hands-on experience in developing 2D and 3D games using Unity. Currently pursuing Game Art & Design at Image Creative Education. Skilled in gameplay programming, level design, UI implementation, game mechanics, and creating engaging player experiences. </p>
-🎮 About Me
+# Hi 👋, I'm V. Rajkumar
 
-I am a Game Art & Design student with a background in Engineering and professional experience in Human Resource Management. My passion for game development led me to specialize in designing and developing interactive 2D and 3D games using Unity.
+### 🎮 Unity Game Developer | Game Designer | 2D & 3D Game Development
 
-I enjoy transforming creative ideas into playable experiences through gameplay programming, level design, player mechanics, AI systems, UI implementation, and game optimization. I am constantly learning new technologies and techniques to enhance my skills in game development and design.
+Passionate Game Designer and Unity Developer with hands-on experience in developing 2D and 3D games using Unity. Currently pursuing Game Art & Design and focused on creating engaging gameplay systems, immersive environments, and interactive gaming experiences.
 
-💻 Technical Skills
-🎯 Game Development
-2D Game Development
-3D Game Development
-Gameplay Programming
-Level Design
-UI Design & Implementation
-Game Mechanics Development
-Player Controller Systems
-Enemy AI Systems
-Animation Integration
-Camera Systems
-🛠 Tools & Software
-Unity 6
-Maya
-Adobe Photoshop
-Adobe Illustrator
-Adobe Substance 3D
-💡 Programming Languages
-C#
-Unity Scripting
-Object-Oriented Programming (OOP)
-🚀 Projects
-🏃 3D Endless Runner Game
-Developed a 3D endless runner game using Unity.
-Implemented obstacle spawning systems, player controls, and smooth camera movement.
-Designed engaging gameplay mechanics and environmental elements.
-🔫 2D Shooting Game
-Built a 2D shooting game featuring:
-Shooting mechanics
-Enemy systems
-Collision detection
-Player movement
-Core gameplay functionality
-🌍 3D Open World Game
-Currently developing an open-world game using Unity 6.
-Implemented:
-Combat systems
-Health systems
-Character movement
-Animation systems
-Cinemachine camera setup
-💼 Professional Experience
-Human Resource Executive
+---
 
-Omega Healthcare Management Services (2018 – 2019)
+## 🚀 About Me
 
-Screened candidates and coordinated interview processes.
-Managed recruitment activities according to client requirements.
-Human Resource Executive
+* 🎓 Studying **Game Art & Design** at Image Creative Education
+* 🎓 Bachelor of Engineering (Anna University)
+* 🎮 Developing 2D & 3D Games using Unity
+* 🌱 Currently learning **Advanced Unity Development, Open World Systems & AI**
+* 💡 Interested in **Gameplay Programming, Level Design, Combat Systems, and Game Mechanics**
+* 👨‍💻 Building personal game development projects and expanding my portfolio
 
-SCIO Management Solution (2019 – 2020)
+---
 
-Conducted candidate screening and recruitment processes.
-Managed payroll activities and employee documentation.
-Supported SLA compliance and operational requirements.
-Human Resource Executive
+## 🛠️ Skills & Technologies
 
-Access Healthcare Pvt Ltd (2020 – 2021)
+### Game Development
 
-Managed hiring processes and employee coordination.
-Assisted in workforce management and client requirements.
-Human Resource Executive
+* Unity 6
+* 2D Game Development
+* 3D Game Development
+* Gameplay Programming
+* Level Design
+* UI Design
+* Enemy AI
+* Combat Systems
+* Animation Integration
+* Cinemachine
 
-Global Healthcare (2021 – 2023)
+### Programming
 
-Handled recruitment and onboarding activities.
-Coordinated with teams to meet organizational goals.
-📚 Education
-🎓 Image Creative Education
+* C#
+* Unity Scripting
+* Object-Oriented Programming (OOP)
 
-Game Art & Design
-2024 – 2026
+### Tools
 
-🎓 Anna University
+* Unity
+* Maya
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe Substance 3D
 
-Bachelor of Engineering (B.E.)
-2019
+---
 
-Percentage: 74%
-🌱 Currently Learning
-Advanced Unity Development
-Open World Game Design
-Game Optimization Techniques
-Advanced AI Systems
-Character Animation Workflows
-Level Design Principles
-💪 Strengths
-Self-Motivated Learner
-Adaptable to New Challenges
-Strong Dedication to Work
-Team Collaboration
-Creative Problem Solving
-🌍 Languages
-Tamil
-English
-🤝 Open to Collaborate On
-Unity Game Development Projects
-2D & 3D Games
-Indie Game Development
-Gameplay Programming
-Game Design Projects
-📫 Connect With Me
-📧 Email: raj90902@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/rajkumar-venugopal-31b391259/
-🎨 Behance: https://www.behance.net/RAJ2711997
-🎮 itch.io: https://itch.io/dashboard
-💻 GitHub: 
-🌐 Portfolio: Your Portfolio URL
+## 🎮 Featured Projects
+
+### 🏃 3D Endless Runner Game
+
+* Obstacle spawning system
+* Smooth player controls
+* Dynamic camera movement
+* Environment setup and gameplay mechanics
+
+### 🔫 2D Shooting Game
+
+* Shooting mechanics
+* Enemy systems
+* Collision detection
+* Player movement
+* Gameplay programming
+
+### 🌍 3D Open World Game
+
+* Combat system
+* Health system
+* Character controller
+* Animation integration
+* Cinemachine camera setup
+
+---
+
+## 💼 Previous Experience
+
+### Human Resource Executive
+
+**Omega Healthcare Management Services** (2018–2019)
+
+### Human Resource Executive
+
+**SCIO Management Solution** (2019–2020)
+
+### Human Resource Executive
+
+**Access Healthcare Pvt Ltd** (2020–2021)
+
+### Human Resource Executive
+
+**Global Healthcare** (2021–2023)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: raj90902@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/rajkumar-venugopal-31b391259/
+* 🎨 Behance: https://www.behance.net/RAJ2711997
+* 🎮 itch.io: https://itch.io/dashboard
+* 🌐 Portfolio: **Your Portfolio URL**
+
+To contribute my creativity, technical skills, and passion for game development to a progressive organization while continuously learning and delivering engaging gaming experiences through innovative design and development.
