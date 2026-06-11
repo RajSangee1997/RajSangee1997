@@ -35,6 +35,7 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 
 * C#
 * Unity Scripting
+* Object-Oriented Programming
 
 ### Tools
 
