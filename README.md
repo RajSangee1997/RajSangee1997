@@ -21,7 +21,6 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 
 ### Game Development
 
-* Unity 6
 * 2D Game Development
 * 3D Game Development
 * Level Design
