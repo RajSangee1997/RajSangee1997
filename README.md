@@ -2,17 +2,17 @@
 
 ### 🎮 Unity Game Developer | Game Designer | 2D & 3D Game Development
 
-Passionate Game Designer and Unity Developer with hands-on experience in developing 2D and 3D games using Unity. Currently pursuing Game Art & Design and focused on creating engaging gameplay systems, immersive environments, and interactive gaming experiences.
+Passionate Game Designer and Unity Developer with hands-on experience in developing 2D and 3D games using Unity. Currently pursuing Game Design & Development and focused on creating engaging gameplay systems, immersive environments, and interactive gaming experiences.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Studying **Game Art & Design** at Image Creative Education
+* 🎓 Studying **Game Design & Development** at Image Creative Education
 * 🎓 Bachelor of Engineering (Anna University)
 * 🎮 Developing 2D & 3D Games using Unity
 * 🌱 Currently learning **Advanced Unity Development, Open World Systems & AI**
-* 💡 Interested in **Gameplay Programming, Level Design, Combat Systems, and Game Mechanics**
+* 💡 Interested in **Gameplay Programming, Level Design, Combat Systems**
 * 👨‍💻 Building personal game development projects and expanding my portfolio
 
 ---
@@ -24,7 +24,6 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 * Unity 6
 * 2D Game Development
 * 3D Game Development
-* Gameplay Programming
 * Level Design
 * UI Design
 * Enemy AI
@@ -36,7 +35,6 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 
 * C#
 * Unity Scripting
-* Object-Oriented Programming (OOP)
 
 ### Tools
 
@@ -63,7 +61,6 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 * Enemy systems
 * Collision detection
 * Player movement
-* Gameplay programming
 
 ### 🌍 3D Open World Game
 
@@ -97,7 +94,7 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 ## 📚 Education
 
 ### 🎓 Image Creative Education
-**Game Art & Design**  
+**Game Design & Development**  
 2024 – 2026
 
 ### 🎓 Anna University(Sri Muthukumaran Institute of Technology Chikkarayapuram)
