@@ -99,7 +99,7 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 
 ### 🎓 Anna University(Sri Muthukumaran Institute of Technology Chikkarayapuram)
 **B.E (Engineering)** 
-2019 Completed
+2015 - 2019
 
 ## 📫 Connect With Me
 
@@ -107,6 +107,6 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 * 💼 LinkedIn: https://www.linkedin.com/in/rajkumar-venugopal-31b391259/
 * 🎨 Behance: https://www.behance.net/RAJ2711997
 * 🎮 itch.io: https://itch.io/dashboard
-* 🌐 Portfolio: **Your Portfolio URL**
+* 🌐 Portfolio: https://rajsangee1997.github.io/
 
 To contribute my creativity, technical skills, and passion for game development to a progressive organization while continuously learning and delivering engaging gaming experiences through innovative design and development.
