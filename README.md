@@ -12,7 +12,7 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 * 🎓 Bachelor of Engineering (Anna University)
 * 🎮 Developing 2D & 3D Games using Unity
 * 🌱 Currently learning **Advanced Unity Development, Open World Systems & AI**
-* 💡 Interested in **Gameplay Programming, Level Design, Combat Systems**
+* 💡 Interested in **Game Developing, Level Design, Combat Systems**
 * 👨‍💻 Building personal game development projects and expanding my portfolio
 
 ---
