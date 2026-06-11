@@ -55,9 +55,9 @@ Passionate Game Designer and Unity Developer with hands-on experience in develop
 * Dynamic camera movement
 * Environment setup and gameplay mechanics
 
-### 🔫 2D Shooting Game
+### 🔫 2D platformer Game
 
-* Shooting mechanics
+* Creating platforms
 * Enemy systems
 * Collision detection
 * Player movement
